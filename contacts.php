@@ -107,13 +107,13 @@ It helps you lose weight in a truly natural way without any bad consequences...<
 <div class="top_right">
   <div class="top_link">
 	<ul>
-					<li class="" style=""><a href="index.php">Home</a></li>
-					<li class="" style=""><a href="ingredients.php">Ingredients</a></li>
-					<li class="" style=""><a href="reviews.php">Reviews</a></li>
-					<li class="" style=""><a href="guarantees.php">Our Guarantees</a></li>
-					<li class="" style=""><a href="faq.php">FAQ</a></li>
-					<li class=" sel" style="padding-right:0px;"><a href="contacts.php">Contacts Us</a></li>
-			</ul>
+		<li class="" style=""><a href="index.php">Home</a></li>
+		<li class="" style=""><a href="ingredients.php">Ingredients</a></li>
+		<li class="" style=""><a href="reviews.php">Reviews</a></li>
+		<li class="" style=""><a href="guarantees.php">Our Guarantees</a></li>
+		<li class="" style=""><a href="faq.php">FAQ</a></li>
+		<li class=" sel" style="padding-right:0px;"><a href="contacts.php">Contacts Us</a></li>
+	</ul>
 <div class="clear"></div>
 </div>
   <div class="clear"></div>
@@ -134,16 +134,15 @@ It helps you lose weight in a truly natural way without any bad consequences...<
  <p>For any assistance please contact us by any of the methods mentioned below. Our team of trained customer service agents works hard 24/7 to ensure you have a good experience and your privacy will be given prime importance.</p>
  <p>Your satisfaction is our goal and we are extremely committed to providing you with the highest quality products possible. If you like our product, please tell everyone. However, if you don't, please tell us. We appreciate feedback.</p>
 
-
-
 <p>
-	NAME: SEDGES IMPEX LP<br>
-	REGISTRATION NO: SL022008<br>
-	ADDRESS: SUITE 5001, 15 BELL ST, ST ANDREWS, FIFE, SCOTLAND, KY16 9UR<br>
-	Email support@v-slim.net<br>
-	800-7892617
-</p>
+Email support@support-pro.biz<br>
+Customer support phone: +442036955924<br>
+Our address<br>
+QualiTrade S.R.L.<br>
+Chişinău, Str. M.Kogălniceanu, 17/3<br>
+Moldova<br>
 
+</p>
 
 
  <h2>Contact Us Online</h2>
@@ -169,14 +168,14 @@ It helps you lose weight in a truly natural way without any bad consequences...<
 				 <td height="50" align="right" valign="middle" class="form_text">Department* : </td>
 				 <td align="left" valign="middle" style="padding:15px 0;">
 					 <select name="department" class="styled">
-												<option value="productquestions"  >Product Questions</option>
-												<option value="ordering"  >Ordering</option>
-												<option value="billing"  >Payment and Billing</option>
-												<option value="shipping"  >Shipping</option>
-												<option value="technical"  >Technical</option>
-												<option value="dropshipping"  >Drop Shipping</option>
-												<option value="suggestions"  >Other Questions and Suggestions</option>
-											 </select>
+						<option value="productquestions"  >Product Questions</option>
+						<option value="ordering"  >Ordering</option>
+						<option value="billing"  >Payment and Billing</option>
+						<option value="shipping"  >Shipping</option>
+						<option value="technical"  >Technical</option>
+						<option value="dropshipping"  >Drop Shipping</option>
+						<option value="suggestions"  >Other Questions and Suggestions</option>
+					 </select>
 				 </td>
 			 </tr>
 			 <tr>
@@ -185,7 +184,7 @@ It helps you lose weight in a truly natural way without any bad consequences...<
 			 </tr>
 			 <tr>
 				 <td height="50" align="right" valign="top" class="form_text">Security Code* : </td>
-				 <td align="right" valign="middle"><img style="float: left;" src="captcha/CaptchaSecurityImages.php?width=100&height=40&characters=5"></img><input type="text" name="security_code" class="form_code"/></td>
+				 <td align="right" valign="middle"><img style="float: left;" src="captcha.php"></img><input type="text" name="security_code" class="form_code"/></td>
 			 </tr>
 			 <tr>
 				 <td height="50" align="right" valign="top" class="form_text">&nbsp;</td>
@@ -223,34 +222,6 @@ It helps you lose weight in a truly natural way without any bad consequences...<
 </div>
  <!-- WRAPPER INNER end -->
 
-<!-- FOOTER START -->
-<div id="footer">
-<script type="text/javascript">
-	function popjack(url) {
-		window.open(url,'popjack','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,scrollbars=yes,width=640,height=265');
-	}
-</script>
-<div class="footer">
-<div class="footer_link"> <div class="f_left" style="padding-right:40px;"><p>Copyright &copy; 2016. VitoSlim	</p></div><div class="f_left"><p><a href="termsandcondition.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Terms and Conditions</a> | <a href="privacypolicy.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Privacy Policy</a> | <a href="shipping.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Shipping Policy</a> | <a href="return.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Return Policy</a> | <a href="refund.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Refund Policy</a> | <a href="cancellation.html" onclick="window.open(this.href, '' , 'width=600,height=500,scrollbars=yes'); return false;">Cancellation Policy</a></p><div style="font-size: 12px; color: #fff"><br>* - Results may vary depending on dietary conditions and individual health state. Please contact your dietary consultant.</div>
-</div> 
-<div class="clear"></div>
-</div>
-<div><p></p></div>
-
-</div>
-
-<div class="clear"></div>
-</div>
-<!-- FOOTER START -->
-
-<div class="clear"></div>
-</div>
-
-<div class="clear"></div>
-</div>
-<!-- MAIN WRAPPER END -->
-<script type="text/javascript">
-	papTrack();
-</script>
-<div style="text-align:center;"><img src="/visa.gif" style="margin-right: 5px;"><img src="/mc.gif"></div></body>
-</html>
+<? 
+include('footer.php');
+?>

@@ -2646,7 +2646,7 @@
                                                                                 <!-- credit card -->
                                                                                 <table width="310" align="center"
                                                                                        border="0" cellpadding="0"
-                                                                                       cellspacing="0" id="card" style="display:none">
+                                                                                       cellspacing="0" id="card">
                                                                                     <tbody>
                                                                                     <tr>
                                                                                         <td class="fieldheader"
@@ -2948,9 +2948,7 @@
                                                             <tr>
                                                                 <td class="requiredfield" align="right"><input
                                                                         class="submit_button" type="submit"
-                                                                        value="SUBMIT ORDER" name="submit">
-<div style="text-align:left;"><img src="qualitrade-black.png"></div>
-                                                                    </td>
+                                                                        value="SUBMIT ORDER" name="submit"></td>
                                                             </tr>
                                                             </tbody>
                                                         </table>
@@ -2973,6 +2971,11 @@
             </div>
         </div>
     </div>
-<? 
-include('footer.php');
-?>
+    <div style="text-align: center" class="footer">
+        <p>Copyright &copy; 2016. VitoSlim	</p>
+        <p></p>
+    </div>
+    <div id="foot-foot"></div>
+</div>
+<div style="text-align:center;"><img src="/visa.gif" style="margin-right: 5px;"><img src="/mc.gif"></div></body>
+</html>
