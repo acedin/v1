@@ -1,0 +1,294 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background:url(../images/body_bg.jpg) center top repeat-x; margin:0px; padding:0px;}
+
+/*----------- MAIN WRAPPER ------------*/
+#main_wrapper{ width:100%; margin:0px; padding:0px;}
+#home_wrapper{ width:100%; background:url(../images/header_bg.jpg) center top no-repeat;}
+
+
+
+/*--------- wrapper css -----------*/
+#wrapper{ width:960px; margin:0 auto; padding:0px;}
+
+
+/*------------- HEADER CSS -----------*/
+#header{ width:960px; background:url(../images/header_back.jpg) center bottom no-repeat; height:981px;}
+.header{ width:960px; margin:0px;}
+
+.logo{ width:265px; height:138px; float:left;} 
+
+.top_right{ float:right; width:675px; background:url(../images/top_link_bg.png) left top no-repeat; height:60px;}
+.top_link{ width:100%; padding:20px 0 0 0;}
+.top_link ul{ margin:0px; padding:0px; list-style:none;}
+.top_link li{ float:left; padding:0 24px; font:15px Georgia, "Times New Roman", Times, serif; color:#295422}
+.top_link a{ color:#295422; text-decoration:none;}
+.top_link a:hover{ color:#295422; text-decoration:underline;}
+.top_link .sel a{ color:#01275a; text-decoration:none;}
+
+
+.flag_box{ float:right; width:140px; padding-top:18px;}
+.flag_box img{ float:left; padding-left:3px;}
+
+.header_hox{ width:570px; float:left;}
+.header_hox h1{ margin:0px; padding:0 0 10px 0;} 
+
+.header_left{ width:310px; float:left;}
+.header_left p{ text-align:center; width:310px; padding:0 0 5px 0;}
+.header_right{ width:247px; height:238px; float:left; margin:80px 0 0 0;}
+
+/*----------------- container css -------------*/
+#container{ width:960px; margin:0px; padding:0px;}
+.container{ width:960px; background:url(../images/herader_bot_back.jpg) center top no-repeat;}
+.container_indent{ width:960px; padding:0px;}
+
+
+.left_link{ width:315px; background:url(../images/left_link_bg.png) left top no-repeat; height:361px; float:left; margin:0 0 0 35px;}
+.left_link ul{ margin:0px; padding:0px; list-style:none;}
+.left_link li{ margin:0px; padding:11px 0 9px 0;}
+.left_link_box{ padding:0 0 0 75px;}
+.left_link_order{ width:195px; height:28px; padding:20px 0 0 50px;}
+
+.drastic_box{ width:586px; float:right; margin-top:30px; height:384px; background:url(../images/drastic_back.png) left top no-repeat;}
+
+.drastic_box h1{ font:24px Georgia, "Times New Roman", Times, serif; color:#d7ba1c; padding:25px 0 30px 20px;}
+
+.drastic_box ul{ margin:0px; padding:0px; list-style:none;}
+.drastic_box li{ background:url(../images/bulit.png) 40px 13px no-repeat; padding:11px 0 10px 65px; font:20px Georgia, "Times New Roman", Times, serif; color:#fff;}
+.drastic_img{ width:252px; height:313px; position:absolute; margin:5px 0 0 350px;}
+
+.vito_slim_box{ width:960px; margin:0px; padding:0px; background:url(../images/bottel_line.png) center bottom no-repeat; padding:0 0 20px 0;}
+
+.vito_slim_box h1{ margin:0px; padding:0px;} 
+.vito_slim_left{ position:absolute; float:left; width:380px; height:370px; margin:40px 0 0 -30px;}
+.vito_slim_right{ width:640px; float:right;}
+.vito_slim_right p{ font:13px Arial, Helvetica, sans-serif; color:#fff; line-height:18px; padding:0 0 10px 0}
+
+.home_container{ padding:40px 0 0 0; width:960px;}
+
+.left_col{width:284px; float:left;}
+
+.right_col{ width:663px; float:right;}
+.right_col h1{ background:url(../images/right_head_bg.jpg) left top no-repeat; width:643px; height:93px; padding:30px 0 0 20px; font:23px  Georgia, "Times New Roman", Times, serif; color:#e4c31e;}
+.right_col h2{ background:url(../images/right_head_h2bg.png) left top no-repeat; width:643px; height:78px; padding:50px 0 0 20px; font:23px  Georgia, "Times New Roman", Times, serif; color:#e4c31e;}
+.right_col h3{font:21px  Georgia, "Times New Roman", Times, serif; color:#c1db32; padding:0 0 10px 0;}
+.right_col h4{font:21px Arial, Helvetica, sans-serif; color:#c1db32; padding:0 0 10px 20px;}
+.right_col p{ font:14px Arial, Helvetica, sans-serif; color:#fff; line-height:18px; padding:0 0 10px 20px;} 
+
+.calories{ position:absolute; width:282px; height:373px; margin:20px 0 0 380px;}
+.order_vitoslim_arrow{  width:663px; margin:0px;}
+
+.overweight_box{ width:656px; margin:0px; padding:0px;}
+.overweight_top{ width:656px; height:7px;}
+.overweight_mid{ width:656px; background:url(../images/overweight_mid.png) left top repeat-y;}
+.overweight_indent{ padding:10px 15px;}
+.overweight_indent ul{ margin:0px; padding:0px; list-style:none;}
+.overweight_indent li{ background:url(../images/arrow.png) left 14px no-repeat; padding:3px 0 3px 20px; font: 14px Arial, Helvetica, sans-serif; color:#fff; line-height:25px;}
+
+.natural_box{ width:950px; padding:30px 0 135px 10px;}
+
+.natural_box h1{ font:bold 14px Arial, Helvetica, sans-serif; color:#c1db32; padding:0 0 10px 50px; line-height:18px;}
+.natural_box ul{ margin:0px; padding:0px; list-style:none;}
+.natural_box li{ font:14px Arial, Helvetica, sans-serif; color:#fff; background:url(../images/arrow1.png) 60px 8px no-repeat; padding:0 0 0 80px; line-height:26px;}
+.natural_box p{ font:14px Arial, Helvetica, sans-serif; color:#efd349; line-height:18px; padding:10px 0 8px 50px;}
+.natural_arrow{ width:681px; height:153px; position:absolute; margin:90px 0 0 0;}
+
+.natural_right{ position:absolute; width:276px; height:280px; margin:0 0 0 660px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-------------- FOOTER CSS -------------*/
+#footer{ width:100%; background:url(../images/footer_bg.jpg) left top repeat; height:90px;}
+.footer{ width:960px; margin:0 auto; padding:22px 0 0 0;}
+.footer p{ font:12px Arial, Helvetica, sans-serif; color:#fff; padding:0 0 10px 0;}
+.footer a{ color:#fff; text-decoration:underline;}
+.footer a:hover{ color:#fff; text-decoration:none;}
+
+.footer_link{ width:960px; margin:0px; padding:0px;}
+
+
+
+
+
+/*------------------------- INNER CSS --------------------------*/
+#wrapper_inner{ width:100%; background:url(../images/body_bg_vito.jpg) left top repeat-x; }
+.wrapper_inner{ width:960px; margin:0 auto;}
+.inner_wrapper{ width:960px; margin:0 auto; padding:0 0 20px 0;}
+
+.inner_left{ width:284px; float:left;}
+
+.drastic_results_box{ width:284px; margin:20px 0 10px 0; float:left;}
+
+.drastic_results_top{ width:284px; height:82px;}
+
+.drastic_results_mid{ width:284px; background:url(../images/drastic_results_mid.jpg) left bottom no-repeat;}
+
+.drastic_results_indent{ padding:10px 10px;}
+.drastic_results_indent ul{ margin:0px; padding:0px; list-style:none;} 
+.drastic_results_indent li{ background:url(../images/drastic_bulit.jpg) left 9px no-repeat; font:16px Georgia, "Times New Roman", Times, serif; color:#fff; padding:4px 0 4px 18px; border-bottom:1px solid #659b48; line-height:25px;}
+
+
+.left_banner{ width:284px; margin:0 0 10px 0; text-align:center; float:left;}
+
+.testimonials{ width:280px; background:url(../images/test_back.jpg) center top repeat-y; height:422px; float:left;}
+.testimonials h1{ text-align:center; padding:20px 0 10px 0; }
+.testimonials h2{ text-align:center; padding:15px 0 0 0;}
+.test_box{ padding:14px 0; border-bottom:1px dashed #797979; margin:0 15px;}
+.test_left{ width:78px; float:left;}
+.test_left p{ font:bold 12px Arial, Helvetica, sans-serif; color:#333; padding:0 0 5px 0; text-align:center;}
+.test_right{ background:url(../images/test_icon.jpg) left top no-repeat; padding:0 0 0 20px; width:140px; float:right; font:12px Arial, Helvetica, sans-serif; color:#000; line-height:18px;}
+
+
+.inner_right{ width:675px; float:right;}
+.swoosh_box{ width:660px; margin:0 0 0 15px; float:left;}
+
+.inner_connent{ width:660px; float:left; margin:0 0 0 10px;}
+
+.inner_connent h1{ background:url(../images/right_head_back.png) left top no-repeat; height:89px; padding:40px 0 0 30px; font:32px Georgia, "Times New Roman", Times, serif; color:#faea33; text-transform:uppercase;}
+.inner_connent h2{ font:18px Arial, Helvetica, sans-serif; color:#faea33; padding:0 0 0 20px;}
+
+
+.inner_connent p{ font:14px Arial, Helvetica, sans-serif; color:#fff; line-height:18px; padding:0 0 10px 20px;}
+
+.phone_box{ background:url(../images/phone_back.jpg) left top no-repeat; width:656px; height:102px; margin:0 0 20px 0;}
+.phone_left{ padding:15px 0 0 20px; float:left; width:100px;}
+.phone_right{ width:430px; float:right; font:29px Arial, Helvetica, sans-serif; color:#fff; padding:28px 0 0 0;}
+.phone_right span{ color:#faea33; font:29px Arial, Helvetica, sans-serif}
+
+.addres_box{ background:url(../images/addres_back.jpg) left top no-repeat; width:656px; height:144px; margin:0 0 20px 0;}
+.address_left{ padding:35px 0 0 20px; float:left; width:100px;}
+.address_right{ width:500px; float:right; font:29px Arial, Helvetica, sans-serif; color:#fff; padding:28px 0 0 0; line-height:38px;}
+.address_right span{ color:#faea33; font:29px Arial, Helvetica, sans-serif}
+ 
+.form_box{ width:560px; margin:0 auto; padding:30px 0 50px 0;} 
+.form_text{ font:15px Arial, Helvetica, sans-serif; color:#fff; padding:8px 20px 0 0;} 
+.form_input{ background:url(../images/form_input.png) left top no-repeat; width:390px; height:24px; border:0px; padding:5px 10px; font:14px Arial, Helvetica, sans-serif; color:#666;} 
+.form_code{ background:url(../images/code_input.jpg) left top no-repeat; width:279px; height:24px; border:0px; padding:5px 10px; font:14px Arial, Helvetica, sans-serif; color:#666;} 
+.form_mass{ background:url(../images/form_massage.jpg) left top no-repeat; width:390px; height:123px; border:0px; padding:5px 10px; font:14px Arial, Helvetica, sans-serif; color:#666;} 
+.select{ position: absolute; width:410px;  height:34px; line-height: 34px !important; padding: 0 24px 0 8px; color: #000; font: 12px/21px arial,sans-serif; background: url(../images/input_list.jpg) no-repeat; overflow: hidden;}
+
+/*---------------------------- FACQS PAGES CSS ---------------------*/
+.faq_connent{width:675px; float:right;}
+.faq_connent h1{ background:url(../images/right_head_back.png) left top no-repeat; height:89px; padding:40px 0 0 30px; font:32px Georgia, "Times New Roman", Times, serif; color:#faea33; text-transform:uppercase;}
+
+.faqs_wrapper{ padding:10px 0 0 30px;} 
+.faqs_wrapper h2{ background:url(../images/faq_bulit.png) left 7px no-repeat; padding:0 0 0 30px; font:18px Arial, Helvetica, sans-serif; color:faea33;}
+.faqs_wrapper p{ font:14px Arial, Helvetica, sans-serif; color:#fff; line-height:18px; padding:0 0 10px 0;}
+
+/*-------------- Guaranteed pages css ---------------*/ 
+.inner_connent h3{ background:url(../images/guaranteed_head_back.jpg) left top no-repeat; height:52px; padding:25px 0 0 30px; font:22px Georgia, "Times New Roman", Times, serif; color:#faea33; margin:0 0 10px 0;}
+
+.inner_connent h4{ background:url(../images/guaranteed_head_back.png) left top no-repeat; height:52px; padding:25px 0 0 30px; font:22px Georgia, "Times New Roman", Times, serif; color:#faea33; margin:0 0 10px 0;}
+ 
+.inner_connent h5{ background:url(../images/precution_back.jpg) left top no-repeat; height:91px; padding:50px 0 0 30px; font:22px Georgia, "Times New Roman", Times, serif; color:#faea33; margin:0 0 10px 0; line-height:27px;} 
+ 
+ 
+/*------------------------------------- REVIWS PAGES CSS -------------------------------*/
+.review_wrapper{ width:664px; float:left; margin:20px 0 0 10px;}
+.review_wrapper h1{ background:url(../images/guaranteed_head_back.png) left top no-repeat; height:54px; padding:23px 0 0 30px; font:25px Georgia, "Times New Roman", Times, serif; color:#faea33; text-transform:uppercase;}
+.review_wrapper h2{  font:18px Arial, Helvetica, sans-seriff; color:#faea33; padding:0 0 8px 0;}
+
+.review_box{ width:664px; margin:0 0 15px 0;} 
+.review_top{ width:664px; height:7px;}
+.review_mid{ width:664px; background:url(../images/reviews_mid.png) left top repeat-y;} 
+.review_indent{ padding:0 10px; width:644px;}
+.after_img{ width:540px; margin:0 auto; padding:10px 0;}
+
+.review_box1{ background:url(../images/reviews_icon.png) left top no-repeat; padding:10px 0 0 55px;}
+.review_box1 p{ font:14px Arial, Helvetica, sans-serif; color:#fff; line-height:18px; padding:0 0 10px 0;}
+.review_box1 img{ vertical-align:middle; padding-left:15px;}
+
+/*---------------------- INGREDIENTS PAGES CSS ------------------*/
+.garcinic_box{ width:660px; margin:0px;}
+.garcinic_box img{ padding:0 25px 0 0;}
+
+.garcinia_wrapper{ width:660px; margin:0 0 10px 0;}
+.garcinia_box{ margin:0 0 0 40px;}
+.garcinia_box h6{ background:url(../images/garcinia_bg.png) left top no-repeat; height:58px; width:601px; font:20px Georgia, "Times New Roman", Times, serif; color:#faea33; padding:25px 0 0 20px;}
+.garcinia_box span{  font: italic 15px Georgia, "Times New Roman", Times, serif; color:#faea33;}
+.garcinia_number{ position:absolute; margin:10px 0 0 0; width:35px; height:50px;}
+
+
+/*------------------------ ORDER PAGES CSS --------------------*/
+.order_wrapper{ width:607px; margin:0 0 0 20px; padding:0 0 50px 0;}
+.order_top{ width:607px; height:7px;}
+.order_bot{ width:607px; height:7px;}
+.order_mid{ width:607px; background:url(../images/order_mid.jpg) left top no-repeat;}
+.order_indent{ padding:15px 60px;}
+.order_text{ font:18px Arial, Helvetica, sans-serif; color:#fff;}
+.order_input{ width:200px; border:0px; height:24px; padding:3px 5px; font:14px Arial, Helvetica, sans-serif; color:#666; line-height:24px;}
+
+.order_box{ width:640px; margin:0px; padding:10px 0 0 30px; float:left;}
+.order_box ul{ margin:0px; padding:0px; list-style:none;}
+.order_box li{ font:14px Arial, Helvetica, sans-serif; color:#fff; background:url(../images/order_arrow.jpg) left 10px no-repeat; padding:0 0 0 23px; line-height:22px;}
+
+#coupon_applied {
+	color: #91f904;
+}
+
+#coupon_failed {
+	color: #f00;
+}
+
+#coupon_applied, #coupon_failed {
+	display: block;
+    margin: 10px 0;
+	font-weight: bold;
+}
+
+/* Contact form messages */
+.contact_error {
+	border: 2px solid #fbc2c4;
+	background-color: #fbe3e4;
+	color: #8a1f11;
+}
+
+.contact_success {
+	border: 2px solid #c6d880;
+	background-color:  #e6efc2;
+	color: #264409;
+	text-align: center;
+}
+
+.contact_error, .contact_success {
+	font-size: 12px;
+	padding: 10px;
+	width: 500px;
+	margin: 25px auto;
+}
+
+.contact_error ul {
+	margin-left: 20px;
+}
+
+.currency-selector {
+	font-weight: bold;
+	padding: 0 30px 10px !important;
+	text-align: right;
+}
+
+/* Dynamic prices */
+.dollar-price, .euro-price {
+	position: absolute;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: sans-serif;
+	top: 50px;
+	left: 170px;
+	text-shadow: 2px 1px 3px #333;
+	color: #F9BD3B;
+	cursor: pointer;
+	padding: 20px;
+}

@@ -1,0 +1,123 @@
+/* MAIN */
+body {;
+	padding:0px;
+	margin:0px;
+	background-repeat: repeat-x;
+	background-image: url(../images/sinfo-mbg.gif);}
+.input    { border: solid 1px #CCCCCC; font-family: Arial; font-size: 11px; color: #000000; }
+
+
+.footers      { font-family: Tahoma; font-size: 11px; font-weight: normal;color: #8a8a8a; } 
+.standard          { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #666666; } 
+
+.green         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #38a000; }
+.red         { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #FF3333; }
+.courier          { font-family: Tahoma; font-size: 11px; font-weight: normal; color: #8a8a8a; } 
+.checktext         { font-family: Tahoma; font-size: 12px; font-weight: normal; color: #666666; } 
+	
+	
+/* Links */
+
+a               { font-family: Tahoma; font-size: 11px; COLOR: #4343BC; font-weight: bold; text-decoration: underline; }
+a:visited       { font-family: Tahoma; font-size: 11px; COLOR: #4343BC; font-weight: bold; text-decoration: underline; }
+a:hover         { font-family: Tahoma; font-size: 11px; COLOR: #FF0000; font-weight: bold; text-decoration: underline; }
+a:visited:hover { font-family: Tahoma; font-size: 11px; COLOR: #FF0000; font-weight: bold; text-decoration: underline; }
+a.cvv2               { font-family: Tahoma; font-size: 9px; COLOR: #4343BC; font-weight: bold; text-decoration: none; }
+a.cvv2:visited       { font-family: Tahoma; font-size: 9px; COLOR: #4343BC; font-weight: bold; }
+a.cvv2:hover         { font-family: Tahoma; font-size: 9px; COLOR: #FF0000; font-weight: bold; text-decoration: none; }
+a.cvv2:visited:hover { font-family: Tahoma; font-size: 9px; COLOR: #FF0000; font-weight: bold; }
+
+/* forms */
+
+td.nameplate     { font-family: Arial; font-size: 18px; font-weight: bold; color: #FF6600; }
+td.boxheader     {
+	background-image: url(../images/header-bg.gif);
+	border-bottom: solid 1px #CCCCCC;
+	height: 23px;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+}
+td.boxbody       { background-color: #FFFFFF; border-left: solid 1px #CCCCCC; border-bottom: solid 1px #CCCCCC; border-right: solid 1px #CCCCCC; }
+td.fieldheader   { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #8a8a8a; }
+td.requiredfield { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #8a8a8a; }
+td.detailheader  { font-family: Arial; font-size: 12px; font-weight: bold; color: #333333; background-color: #EEEEEE; }
+td.detaildata    { font-family: Tahoma; font-size: 12px; font-weight: normal; color: #666666; background-color: #F6F6F6; }
+
+/* THANK YOU PAGE */
+
+.green-ty         { font-family: Tahoma; font-size: 18px; font-weight: bold; color: #38a000; }
+.red-ty         { font-family: Tahoma; font-size: 14px; font-weight: bold; color: #FF3333; }
+.green-ty-2 {
+font-family: Tahoma; font-size: 13px; font-weight: bold; color: #38a000;
+}
+
+.prices     {
+	height: 0px;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;}
+	
+.totalprices     {
+	height: 23px;
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0C789B;}
+
+.contents     {
+	height: 23px;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+	line-height: 2.3;
+}
+	
+.address     {
+	height: 23px;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #0C789B;
+	line-height: 2;
+}
+
+
+a.tyl               { font-family: Tahoma; font-size: 12px; COLOR: #0C789B; font-weight: bold; text-decoration: none; }
+a.tyl:visited       { font-family: Tahoma; font-size: 12px; COLOR: #0C789B; font-weight: bold; }
+a.tyl:hover         { font-family: Tahoma; font-size: 12px; COLOR: #FF0000; font-weight: bold; text-decoration: none; }
+a.tyl:visited:hover { font-family: Tahoma; font-size: 12px; COLOR: #FF0000; font-weight: bold; }
+
+td.redfieldheader   { font-family: Tahoma; font-size: 12px; font-weight: bold; color: #cc0000; }
+td.darkfieldheader   { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #686868; }
+.redbold   { font-family: Tahoma; font-size: 11px; font-weight: bold; color: #cc0000; }
+
+.textarea {
+border:1px solid #cdcdcd;
+margin-left:10px;
+margin-right:10px;
+width:256px;
+}
+
+.button {
+    border: none;
+    background: url('../images/sinfo-button.gif') no-repeat top left;
+    padding: 2px 8px;
+    width:167px;
+    height:45px;
+    color:#E1E1E1;
+    cursor: pointer;
+    cursor: hand;
+}
+
+.submit_button {
+cursor: pointer;
+background-color:#0A758A;
+color: white;
+padding:4px;
+border:0px;
+}
+
