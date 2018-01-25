@@ -128,6 +128,13 @@ It helps you lose weight in a truly natural way without any bad consequences...<
 
  <h1>Ingredients</h1>
  <p>Vitoslim is a specially designed formulation to burn body fat, to normalize appetite, to reduce body weight and to maintain a reduced body weight. It contains four herbal ingredients including Guggulu and Garcinia, which have been effectively used to treat obesity and related ailments, since time immemorial. Scientific studies have also proved anti-obesity and appetite suppressant activities of most of the herbal ingredients of the formulation. The formulation acts through multiple pharmacological actions such as appetite suppression, anti-obesity, hypolipidaemic and anti-oxidant.</p>
+ <p>Every capsule contains next ingredients:<br>
+ Garcinia Cambogia: 100mg<br>
+ Terminalia Chebula: 120mg<br>
+ Commiphora Mukul: 50mg<br>
+ Emblica Officinalis: 150mg<br>
+ 
+ </p>
  <p>&nbsp;</p>
 
  <h3>Garcinia Cambogia</h3>
